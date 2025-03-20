@@ -25,6 +25,8 @@ Technologies Used
 
 4. Scikit-learn for ML models
 
+5. TensorFlow/Keras for deep learning models (LSTM, GRU)
+
 Results
 
 The model achieves competitive accuracy in predicting stock price trends. However, stock prices are highly volatile, and predictions may not always be precise due to market fluctuations.
